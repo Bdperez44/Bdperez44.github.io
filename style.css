@@ -1,0 +1,23 @@
+body{
+    overflow-x: hidden;
+    width: 100%;
+}
+.ayuda{
+    text-decoration: none;
+    color:white;
+}
+.cabecera{
+    background-color:black;
+}
+.card{
+    float: left;
+    text-align: center;
+    margin: 15%;
+}
+.what{
+    position: fixed; 
+            bottom: 25px; 
+            left: 25px;
+            width: 100%;
+            z-index: 1000; 
+}
